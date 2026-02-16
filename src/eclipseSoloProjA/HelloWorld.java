@@ -7,7 +7,8 @@ public class HelloWorld {
 		System.out.println("Hello World!");
 		System.out.println("It's a beautiful day!");
 		System.out.println("Progammer 2 did this");
-		System.out.println("Programmer One did this");
+		System.out.println("Programmer 1 did this");
+
 	}
 
 }
